@@ -11,4 +11,20 @@ package prueba;
  */
 public class claseDePrueba {
     
+    int numero;
+    String texto;
+
+    public claseDePrueba(int numero, String texto) {
+        this.numero = numero;
+        this.texto = texto;
+    }
+
+
+
+    @Override
+    public String toString() {
+        return "claseDePrueba{" + "numero=" + numero + ", texto=" + texto + '}';
+    }
+    
+    
 }
