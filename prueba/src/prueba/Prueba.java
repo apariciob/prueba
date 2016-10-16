@@ -16,7 +16,7 @@ public class Prueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(new claseDePrueba(2, "as"));
+        System.out.println(new claseDePrueba(2, "as","12/5/12"));
     }
     
 }

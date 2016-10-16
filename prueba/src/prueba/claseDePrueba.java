@@ -13,10 +13,12 @@ public class claseDePrueba {
     
     int numero;
     String texto;
+    String fecha;
 
-    public claseDePrueba(int numero, String texto) {
+    public claseDePrueba(int numero, String texto, String fecha) {
         this.numero = numero;
         this.texto = texto;
+        this.fecha = fecha;
     }
 
 
