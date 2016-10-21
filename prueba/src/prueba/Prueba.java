@@ -22,4 +22,10 @@ public class Prueba {
         System.out.println(new claseDePrueba(2, "as","12/5/12"));
     }
     
+    public static void sebacapo(){
+        
+        System.out.println("VAPAIII");
+        
+    }
+    
 }
