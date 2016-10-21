@@ -12,7 +12,7 @@ package prueba;
 public class Prueba {
 
     claseDePrueba cp = new claseDePrueba(9, "Sebastian", "17/02/1996");
-    
+    VentanaPrueba v = new VentanaPrueba();
     
     /**
      * @param args the command line arguments

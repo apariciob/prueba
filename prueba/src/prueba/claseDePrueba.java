@@ -20,6 +20,7 @@ public class claseDePrueba {
         this.texto = texto;
         this.fecha = fecha;
     }
+    
 
     public void textoGrande(){
         if(this.texto.length()==5){
