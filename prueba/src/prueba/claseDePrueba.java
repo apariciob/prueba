@@ -21,7 +21,11 @@ public class claseDePrueba {
         this.fecha = fecha;
     }
 
-
+    public void textoGrande(){
+        if(this.texto.length()==5){
+            System.out.println("Texto grande");
+        }
+    }
 
     @Override
     public String toString() {
