@@ -35,6 +35,13 @@ public class claseDePrueba {
             nombre="Carlos";
         }
     }
+    
+    public void alejo(){
+        int num = 5;
+        if(num==5){
+            System.out.println("Alejo es puto");
+        }
+    }
 
     @Override
     public String toString() {
