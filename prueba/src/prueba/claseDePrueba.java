@@ -26,6 +26,15 @@ public class claseDePrueba {
             System.out.println("Texto grande");
         }
     }
+    
+    public void cabeza(){
+        int cabezaloca=180;
+        int loquito= 80;
+        String nombre;
+        if(cabezaloca> loquito){
+            nombre="Carlos";
+        }
+    }
 
     @Override
     public String toString() {
