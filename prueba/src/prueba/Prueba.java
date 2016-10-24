@@ -30,5 +30,6 @@ public class Prueba {
 
     public static void sebacapo2(){
         System.out.println("VAPAIII2");
+        System.out.println("1");
 	}
 }
