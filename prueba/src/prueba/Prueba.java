@@ -31,4 +31,8 @@ public class Prueba {
     public static void sebacapo2(){
         System.out.println("VAPAIII2");
 	}
+    
+    public static void sevacapo4(){
+        System.out.println("hola4");
+    }
 }
