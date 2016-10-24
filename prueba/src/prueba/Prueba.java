@@ -27,7 +27,8 @@ public class Prueba {
         System.out.println("VAPAIII");
         
     }
-    public static void sebacapo3(){
-            System.out.println("VAPAIII3");
-}
+
+    public static void sebacapo2(){
+        System.out.println("VAPAIII2");
+	}
 }
